@@ -1,0 +1,7 @@
+# For MacOS
+.DS_Store
+
+# Example for large files
+.wav
+.mp4
+.zip
